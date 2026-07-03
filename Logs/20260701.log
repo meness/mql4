@@ -30,3 +30,97 @@
 0	13:29:38.679	Custom indicator MTR Trend Analyzer XAUUSD@,M5: loaded successfully
 0	17:38:05.281	Compiling 'MTR Trend Analyzer'
 0	17:38:08.742	Custom indicator MTR Trend Analyzer XAUUSD@,M5: loaded successfully
+0	17:38:08.834	MTR Trend Analyzer XAUUSD@,M5: initialized
+0	17:39:26.978	MTR Trend Analyzer XAUUSD@,M5: uninit reason 2
+0	17:39:26.984	Custom indicator MTR Trend Analyzer XAUUSD@,M5: removed
+0	17:39:27.001	Custom indicator MTR Trend Analyzer XAUUSD@,M5: loaded successfully
+0	17:39:27.034	MTR Trend Analyzer XAUUSD@,M5: initialized
+0	17:46:02.262	MTR Trend Analyzer XAUUSD@,M5: uninit reason 2
+0	17:46:02.265	Custom indicator MTR Trend Analyzer XAUUSD@,M5: removed
+0	17:46:02.280	Custom indicator MTR Trend Analyzer XAUUSD@,M5: loaded successfully
+0	17:46:02.312	MTR Trend Analyzer XAUUSD@,M5: initialized
+0	17:46:06.021	MTR Trend Analyzer XAUUSD@,M5: uninit reason 2
+0	17:46:06.023	Custom indicator MTR Trend Analyzer XAUUSD@,M5: removed
+0	17:46:06.040	Custom indicator MTR Trend Analyzer XAUUSD@,M5: loaded successfully
+0	17:46:06.073	MTR Trend Analyzer XAUUSD@,M5: initialized
+0	17:49:02.248	MTR Trend Analyzer XAUUSD@,M5: MTR Saved | XAUUSD@  2026.06.30 14:30  Dir=BUY  Out=LOSS  SL=4025.02  SwingRef=4025.36
+0	17:49:04.975	MTR Trend Analyzer XAUUSD@,M5: MTR Saved | XAUUSD@  2026.06.30 15:40  Dir=BUY  Out=LOSS  SL=4011.98  SwingRef=4012.44
+0	17:49:10.762	MTR Trend Analyzer XAUUSD@,M5: MTR Saved | XAUUSD@  2026.06.30 22:05  Dir=SELL  Out=WIN  SL=4032.76  SwingRef=4032.53
+0	18:49:36.688	MTR Trend Analyzer XAUUSD@,M5: uninit reason 3
+0	18:49:36.690	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	18:53:58.278	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	18:53:58.281	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	18:53:58.299	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	18:53:58.335	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:04:45.470	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:04:45.473	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:04:45.490	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:04:45.520	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:11:48.280	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:11:48.282	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:11:48.299	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:11:48.331	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:12:54.641	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:12:54.644	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:12:54.660	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:12:54.691	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:13:10.505	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:13:18.730	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:13:21.573	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:13:25.026	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:19:40.958	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:19:40.961	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:19:40.978	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:19:41.013	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:22:43.469	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:22:43.471	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:22:43.485	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:22:43.519	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:23:02.643	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:23:12.312	MTR Trend Analyzer XAUUSD@,M1: MTR Saved | XAUUSD@  2026.07.01 17:01  Dir=SELL  Out=LOSS  SL=4102.16  SwingRef=4101.56
+0	19:24:11.068	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:24:15.743	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:24:46.924	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:24:46.928	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:24:46.946	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:24:46.982	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:32:54.573	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:32:54.575	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:32:54.590	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:32:54.622	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:33:38.468	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:33:38.470	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:33:38.486	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:33:38.518	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:53:13.440	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:53:13.443	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:53:13.459	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:53:13.493	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:53:17.284	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:53:17.286	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:53:17.304	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:53:17.342	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	19:53:55.453	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	19:55:33.621	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	19:55:33.623	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	19:55:33.639	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	19:55:33.674	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	20:02:35.778	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	20:02:35.780	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	20:02:35.798	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	20:02:35.833	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	20:02:41.773	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	20:06:33.638	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	20:06:33.641	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	20:06:33.658	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	20:06:33.693	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	20:10:58.334	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	20:10:58.337	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	20:10:58.353	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	20:10:58.385	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	20:11:02.676	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	20:11:02.679	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	20:11:02.696	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	20:11:02.732	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	22:34:19.040	MTR Trend Analyzer XAUUSD@,M1: uninit reason 9
+0	22:34:19.139	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed

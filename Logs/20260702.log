@@ -1,0 +1,58 @@
+0	10:38:15.760	Compiling 'MTR Trend Analyzer'
+0	10:38:20.003	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:38:20.065	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	10:39:37.173	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	10:39:37.178	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	10:39:37.196	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:39:37.232	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	10:46:50.728	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	10:46:50.731	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	10:46:50.747	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:46:50.781	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	10:51:30.342	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	10:51:30.345	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	10:51:30.361	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:51:30.396	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	10:53:17.023	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	10:53:17.025	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	10:53:17.042	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:53:17.076	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	10:53:29.653	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored to initial state
+0	10:54:54.317	MTR Trend Analyzer XAUUSD@,M1: MTR Saved | XAUUSD@  2026.07.01 17:24  Dir=SELL  Out=WIN  SL=4107.22  SwingRef=4106.78
+0	10:59:59.643	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	10:59:59.646	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	10:59:59.664	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	10:59:59.698	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	11:11:47.872	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	11:11:47.875	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	11:11:47.895	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	11:11:47.936	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	11:12:57.880	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored.
+0	11:14:37.680	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	11:14:37.683	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	11:14:37.700	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	11:14:37.735	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	11:26:55.181	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored.
+0	11:32:52.959	MTR Trend Analyzer XAUUSD@,M1: uninit reason 2
+0	11:32:52.962	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	11:32:52.978	Custom indicator MTR Trend Analyzer XAUUSD@,M1: loaded successfully
+0	11:32:53.012	MTR Trend Analyzer XAUUSD@,M1: initialized
+0	11:35:34.556	MTR Trend Analyzer XAUUSD@,M1: MTR Saved | XAUUSD@  2026.07.01 17:05  Dir=BUY  Out=WIN  SL=4082.35  SwingRef=4082.90
+0	11:35:36.944	MTR Trend Analyzer XAUUSD@,M1: MTR Saved | XAUUSD@  2026.07.01 17:14  Dir=BUY  Out=LOSS  SL=4082.42  SwingRef=4082.90
+0	11:35:39.161	MTR Trend Analyzer XAUUSD@,M1: MTR Saved | XAUUSD@  2026.07.01 17:23  Dir=BUY  Out=LOSS  SL=4088.95  SwingRef=4089.40
+0	11:36:56.273	MTR Trend Analyzer XAUUSD@,M1: MTR Reset: All settings restored.
+0	11:43:37.667	Compiling 'ASTRA Trend Analyzer'
+0	11:43:44.358	MTR Trend Analyzer XAUUSD@,M1: uninit reason 1
+0	11:43:44.361	Custom indicator MTR Trend Analyzer XAUUSD@,M1: removed
+0	11:44:17.471	Custom indicator ASTRA Trend Analyzer XAUUSD@,M1: loaded successfully
+0	11:44:58.358	ASTRA Trend Analyzer XAUUSD@,M1: initialized
+0	11:45:00.534	ASTRA Trend Analyzer XAUUSD@,M1: ASTRA Reset: All settings restored.
+0	11:49:14.807	ASTRA Trend Analyzer XAUUSD@,M1: uninit reason 9
+0	11:49:14.889	Custom indicator ASTRA Trend Analyzer XAUUSD@,M1: removed
+0	14:10:20.641	Custom indicator ASTRA Trend Analyzer XAUUSD@,M1: loaded successfully
+0	14:10:20.742	ASTRA Trend Analyzer XAUUSD@,M1: initialized
+0	14:13:08.902	ASTRA Trend Analyzer XAUUSD@,M1: ASTRA Saved | XAUUSD@  2026.07.01 17:38  Dir=SELL  Out=LOSS  SL=4108.51  SwingRef=4094.98
+0	14:13:23.031	ASTRA Trend Analyzer XAUUSD@,M1: ASTRA Reset: All settings restored.
+0	14:15:17.807	ASTRA Trend Analyzer XAUUSD@,M1: ASTRA Reset: All settings restored.
+0	14:15:44.194	ASTRA Trend Analyzer XAUUSD@,M1: uninit reason 9
+0	14:15:44.297	Custom indicator ASTRA Trend Analyzer XAUUSD@,M1: removed
